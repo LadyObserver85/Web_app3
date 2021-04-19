@@ -1,10 +1,10 @@
 # Project Description
-##Part 1 
+###Part 1 
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman.
 
 [View Assignment Video Here](https://youtu.be/QbMWNgrfAFg)
 
-##Part 2
+###Part 2
 For this assignment, your goal is setup a Bootstrap HTML template using Flask Templates and
 use it to display data retrieved from your database.
 
