@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS tableDeNiroMovies (
 INSERT INTO tableDeNiroMovies (Year,Score,Title) VALUES
     (1968,  86,' "Greetings"'),
     (1970,  17,' "Bloody Mama"'),
-    (1970,  73,' "Hi',' Mom!"'),
+    (1970,  73,' "Hi Mom!"'),
     (1971,  40,' "Born to Win"'),
     (1973,  98,' "Mean Streets"'),
     (1973,  88,' "Bang the Drum Slowly"'),
@@ -19,7 +19,7 @@ INSERT INTO tableDeNiroMovies (Year,Score,Title) VALUES
     (1976,  41,' "The Last Tycoon"'),
     (1976,  99,' "Taxi Driver"'),
     (1977,  47,' "1900"'),
-    (1977,  67,' "New York',' New York"'),
+    (1977,  67,' "New York New York"'),
     (1978,  93,' "The Deer Hunter"'),
     (1980,  97,' "Raging Bull"'),
     (1981,  75,' "True Confessions"'),
