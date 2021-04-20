@@ -2,9 +2,11 @@ CREATE DATABASE moviesData;
 use moviesData;
 
 CREATE TABLE IF NOT EXISTS tableDeNiroMovies (
+    `id` int AUTO_INCREMENT,
     `Year` INT,
     `Score` INT,
-    `Title` VARCHAR(42) CHARACTER SET utf8
+    `Title` VARCHAR(42) CHARACTER SET utf8,
+     PRIMARY KEY (`id`)
 );
 INSERT INTO tableDeNiroMovies VALUES
     (1968,  86,' "Greetings"'),
