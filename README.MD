@@ -12,6 +12,12 @@ use it to display data retrieved from your database.
 
 [View Assignment Video Here](https://www.youtube.com/watch?v=tylzleJDlkc&ab_channel=KeithWilliams)
 
+## Part 3
+
+In this project you will need to create HTML forms to create new records, update records, and a small form that
+has no fields other than a submit button to delete records.
+
+[View Assignment Video Here](https://www.youtube.com/watch?v=5WBYxNZz8Zw&ab_channel=KeithWilliams)
 
 # Postman Screenshot
 ![postman request output](screenshots/postman.png)
