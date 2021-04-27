@@ -19,6 +19,12 @@ has no fields other than a submit button to delete records.
 
 [View Assignment Video Here](https://www.youtube.com/watch?v=5WBYxNZz8Zw&ab_channel=KeithWilliams)
 
+## Part 4
+
+In this project you will need to create a REST API and use Postman to test the GET, POST, PUT, and DELETE request methods.
+
+[View Assignment Video Here](https://www.youtube.com/watch?v=bfAW4vOdz7Q&ab_channel=KeithWilliams)
+
 # Postman Screenshot
 ![postman request output](screenshots/postman.png)
 
